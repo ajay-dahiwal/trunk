@@ -1,6 +1,6 @@
 <?php
 
-
+echo 'Hello';
 ?>
 Created in PHPStorm
 
